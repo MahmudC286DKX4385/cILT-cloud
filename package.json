@@ -1,0 +1,19 @@
+{
+    "name": "hapi-project",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error : no test specified\"&& exit 1",
+        "start": "./node_modules/nodemon/bin/nodemon.js app.js"
+    }
+    "keywords": [],
+    "author": {},
+    "license": "ISC"
+    "dependencies": {
+        "hapi" "^16.6.2"
+    },
+    "devDependencies": {
+        "nodemon": "^1.12.1"
+    }
+}
